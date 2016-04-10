@@ -1,1 +1,1 @@
-Welcome to HICollage with GIT !
+Welcome to HICollege with GIT !
